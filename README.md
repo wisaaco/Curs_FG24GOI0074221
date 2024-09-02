@@ -1,12 +1,10 @@
-# Curs_FG24GOI0074221
+# CursFG24GOI0074221
 ## Títol de l’activitat: Manipulació i anàlisi de dades basat en el llenguatge de programació Python
-### Total d’hores i dates de realització:  Hores:   30(25 presencials i 5 de feina personal)
+### Total d’hores i dates de realització:  Hores: 30 (25 presencials i 5 de feina personal)
 
-Aquest repositori conté el material docent d'un curs d'introducció a python per la manipulació i anàlisis de dades per a l'administració pública.
+Aquest repositori conté el material docent d'un curs d'introducció a Python per la manipulació i anàlisis de dades per a l'administració pública.
 
-** EN PREPARACIÓ **
-
-[Documentació](TODO)
+[Documentació](https://cursfg24goi0074221.readthedocs.io/ca/latest/)
 
 ### Autors:
 - [Isaac Lera](https://personal.uib.cat/isaac.lera)

@@ -10,7 +10,7 @@ Welcome to Curs Python EBAP's documentation!
    :maxdepth: 2
    :caption: Unitats
 
-   lessons/0_Curs_Python
+   lessons/0_sobre_aquest_curs
    lessons/1_Introduccio_Notebooks
    lessons/2_Python_Introduccio
    lessons/3_Pandas_Introduccio
