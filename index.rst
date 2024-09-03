@@ -11,8 +11,9 @@ Welcome to Curs Python EBAP's documentation!
    :caption: Unitats
 
    lessons/0_sobre_aquest_curs
-   lessons/1_Introduccio_Notebooks
+   lessons/1_Infraestructura_execucio
    lessons/2_Python_Introduccio
+   
    lessons/3_Pandas_Introduccio
    lessons/4_Pandas_Estructura
    lessons/5_Pandas_Modificacio
