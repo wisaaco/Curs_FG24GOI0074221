@@ -9,4 +9,3 @@ Aquest repositori conté el material docent d'un curs d'introducció a Python pe
 ### Autors:
 - [Isaac Lera](https://personal.uib.cat/isaac.lera)
 - [Biel Moyà](https://personal.uib.cat/gabriel.moya)
-
