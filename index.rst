@@ -21,7 +21,7 @@ Welcome to Curs Python EBAP's documentation!
 
 .. toctree::
    :maxdepth: 1
-   :caption: Projecte
+   :caption: Projecte final
 
    lessons/projecte_final
 
