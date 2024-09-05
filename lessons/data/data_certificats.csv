@@ -1,0 +1,1001 @@
+,Dni,Nom,CP,Ciutat,Sexe,Tipus certificat cat,Punts,Salari
+0,F2260015I,María Dolores Arjona Jove,07590,Pedruscada,M,B,56,2483
+1,N4280056E,Núria Quirós,07529,Ariany,F,B,83,2134
+2,W3674728E,Miguel José María Gil Vargas,07006,Palma,M,D,66,3388
+3,S0906216G,Jordi Chaves Bustamante,07609,Bellavista,F,B,38,2578
+4,P9310209C,Jana Rosa Collado Menéndez,07800,Eivissa,F,D,14,3124
+5,Q8493576F,Antonio Murillo Suarez,07590,Pedruscada,F,B,31,2383
+6,P9406996J,Arlet del Rovira,07340,Alaro,M,A,52,2536
+7,A05669403,Emma Tapia Salas,07511,Ruberts,M,A,95,2523
+8,Q1593041E,Jana Barrios,07609,Bellavista,M,B,36,3440
+9,R9633751D,Abril de Pujadas,07511,Ruberts,M,C,76,1370
+10,C91138057,Nil Mínguez Hervás,07350,Binissalem,M,A,17,1768
+11,D72995855,Antonia Feijoo Girona,07350,Binissalem,M,B,98,1975
+12,U5137880J,Daniel del Bou,07701,Mao,M,A,3,3077
+13,H42050971,Josep Verdejo Tovar,07529,Ariany,F,B,15,1272
+14,W6153421J,Jorge Manuel Casanovas,07529,Ariany,M,A,8,1748
+15,V1776676G,Lucia de Maestre,07870,La Savina,F,B,64,2230
+16,W1655729J,Antònia Plaza Molins,07350,Binissalem,F,C,37,2703
+17,C37235629,Isabel Manrique-Espejo,07590,Pedruscada,M,B,84,2219
+18,P2337525F,Enzo Aparicio,07350,Binissalem,F,A,62,2191
+19,S6806240E,Jana Noa Bayón Borrás,07529,Ariany,M,A,9,2346
+20,B57766966,Daniel Arias Bernat,07590,Pedruscada,M,B,99,3350
+21,A27322718,María Del Carmen del Vélez,07511,Ruberts,F,C,63,2254
+22,E18096867,Francisco del Llopis,07013,Palma,M,A,84,2380
+23,A10472652,Núria Palau Blanca,07590,Pedruscada,M,A,68,3444
+24,R7719794E,Carla Torrecilla Naranjo,07609,Bellavista,F,B,16,1530
+25,W7043643A,Jan Alegre,07350,Binissalem,F,B,52,1142
+26,U5529239E,Bruno Giménez-Peral,07340,Alaro,F,B,6,1416
+27,R0486721D,José Rojas Barrios,07590,Pedruscada,F,A,75,1546
+28,R9877647I,Daniel Gilabert Arrieta,07701,Mao,F,A,84,1959
+29,F4046100F,Rosa Benavent-Amor,07703,Mao,M,A,12,2708
+30,H51102093,Èric Carretero Posada,07340,Alaro,F,A,82,3275
+31,D29692092,Juan Carmona Arce,07529,Ariany,F,A,37,1901
+32,S0224507D,Aina Dolores Esteban Casals,07609,Bellavista,M,B,77,1215
+33,B91700955,Emma Barriga Alsina,07703,Mao,M,A,92,1576
+34,V2910049B,María Teresa de Juan,07703,Mao,F,A,63,2350
+35,D64040777,Hugo Bello Mascaró,07609,Bellavista,M,A,22,2706
+36,A01369602,María Teresa Escribano Barriga,07529,Ariany,M,B,50,2629
+37,S8802793C,Montserrat Ariza,07609,Bellavista,F,C,66,3374
+38,R7477606C,Arlet María Del Carmen Flores Juan,07529,Ariany,F,A,63,3157
+39,C75997718,Noa Dominguez Frutos,07511,Ruberts,M,C,42,3341
+40,R2944186B,David Cáceres Noriega,07340,Alaro,F,B,54,2525
+41,J4878833E,Jana Carpio,07701,Mao,M,A,75,1102
+42,N1721753J,Mia Cristina Alcalde Soto,07590,Pedruscada,M,A,13,2192
+43,R8955806H,Sofía Verdugo Merino,07006,Palma,F,A,56,2980
+44,G66523283,María Iglesia Corral,07529,Ariany,F,A,34,2743
+45,E38763488,Abril del Bermúdez,07340,Alaro,F,B,43,3167
+46,N9384523H,Ana Lucas Cepeda,07529,Ariany,M,A,87,1047
+47,F9606098C,Miguel del Maestre,07529,Ariany,M,B,76,3223
+48,G61999678,Sílvia Cazorla Menéndez,07511,Ruberts,M,A,66,3365
+49,C32176695,María Dolores Berrocal Abellán,07340,Alaro,F,B,61,1922
+50,C58680224,Dolores Lucia Cuesta Heras,07340,Alaro,M,A,21,2527
+51,B95330551,Martí del Ribas,07609,Bellavista,F,B,53,2936
+52,N3213271D,Lucas Ripoll Artigas,07350,Binissalem,M,A,59,1845
+53,P6314986H,Martí Bartolomé Jove,07703,Mao,F,A,57,2913
+54,H02765055,Martí Álamo Torrens,07800,Eivissa,M,A,12,2884
+55,U3251021F,Valèria de Arias,07609,Bellavista,M,A,73,1204
+56,C65234312,Laura Miguel Solera,07340,Alaro,M,A,13,1725
+57,R2669579A,Manuel Fabra Blanco,07609,Bellavista,F,C,67,1624
+58,V2599785I,Adam Querol Rios,07609,Bellavista,M,B,21,1673
+59,P6741348D,Abril García Alcaraz,07350,Binissalem,M,A,98,1762
+60,P5170079G,Pedro Cabañas Farré,07009,Palma,M,A,72,3219
+61,B30533764,Èric Mate Losada,07800,Eivissa,F,A,77,3304
+62,J1970377F,Biel Tamarit Puente,07013,Palma,M,A,75,3184
+63,G55959472,Albert Llobet Santamaría,07529,Ariany,F,A,95,1100
+64,U5420702B,Javier Cañellas Viñas,07701,Mao,F,A,46,2398
+65,P1369859B,Carla Cortes Lopez,07701,Mao,F,A,72,1064
+66,D40581639,Aleix Armas Fuster,07609,Bellavista,M,C,26,2634
+67,C93990307,Ramón Miranda-Pedraza,07529,Ariany,F,D,68,1717
+68,G29037116,Ana Urrutia-Segarra,07529,Ariany,F,C,98,2369
+69,C79006466,Martina Escalona Galiano,07870,La Savina,F,A,57,2099
+70,P0896745G,Sílvia Manuel Agullo,07800,Eivissa,F,C,31,1087
+71,G01258169,Daniel Linares Mínguez,07350,Binissalem,M,B,59,2156
+72,E37174455,Martina Bueno Neira,07529,Ariany,M,C,65,2767
+73,S8758212H,Ana Ana Lerma Céspedes,07590,Pedruscada,M,C,14,1755
+74,R2203270J,Jordi Paniagua Prat,07529,Ariany,F,B,72,1967
+75,N8872513J,Carmen del Cardona,07800,Eivissa,F,A,59,2975
+76,D03643244,Isabel Asensio Mena,07009,Palma,M,B,28,1311
+77,C76903772,Pedro Belda Mate,07590,Pedruscada,F,A,78,1796
+78,W1077387G,Lucia Martínez Ribera,07800,Eivissa,F,C,87,3493
+79,A93982056,Biel Teruel Sáez,07609,Bellavista,F,D,25,1892
+80,A07468911,Lucia Casanova Tello,07340,Alaro,F,B,6,1012
+81,D50944719,Nil Roldan Arellano,07800,Eivissa,M,A,49,3136
+82,B73818296,José Daniel Diaz Peña,07350,Binissalem,F,B,31,3479
+83,W2585294H,Antonio Blazquez Figuerola,07350,Binissalem,M,C,12,3208
+84,W8471260C,Álex del Aguiló,07701,Mao,F,A,77,1812
+85,A06089742,Lucas Villena Manjón,07800,Eivissa,F,A,52,1504
+86,H12495727,Núria Gaya Rocha,07870,La Savina,F,C,72,3093
+87,U5549465B,Juan Gimeno Julián,07703,Mao,F,A,3,2883
+88,G49990476,Clàudia Rosado-Fernandez,07870,La Savina,M,B,96,1526
+89,C76993161,Carla Bartolomé Amorós,07800,Eivissa,M,A,73,2899
+90,R1138660D,Mia Franch,07870,La Savina,M,B,21,3034
+91,U0220562C,Nil Puig Jerez,07340,Alaro,M,B,93,1962
+92,E00666453,Aleix Garzón,07529,Ariany,F,B,94,2783
+93,R4848761E,Chlóe Arlet Figuerola Sedano,07340,Alaro,M,A,45,2520
+94,W0250335G,Martina Corbacho Calvo,07511,Ruberts,F,A,9,2017
+95,E01911262,Núria Chlóe Ramis Rocha,07590,Pedruscada,F,B,48,1652
+96,Q5630103I,Núria Mora,07009,Palma,M,A,79,1453
+97,A96395645,Núria Franch Gilabert,07529,Ariany,F,C,28,1688
+98,N8574271F,José Monreal Montserrat,07590,Pedruscada,F,C,92,2806
+99,D40613507,Pedro Colomer Jimenez,07529,Ariany,M,A,59,2751
+100,B07004658,Chlóe María Mariscal Sosa,07511,Ruberts,M,A,40,1928
+101,Q9660299J,Arnau Villalonga Ariza,07340,Alaro,F,A,5,1299
+102,N8623553H,Hugo Castrillo Armas,07350,Binissalem,F,B,16,1251
+103,P3456628A,Adam Martí Muro Cuevas,07350,Binissalem,M,A,8,2190
+104,U8239180F,Max Pera Vazquez,07340,Alaro,F,A,79,2010
+105,A87457008,Paula Vallés Aragonés,07701,Mao,M,D,90,2206
+106,Q2060730E,Antònia Villaverde-Benito,07009,Palma,F,B,42,2902
+107,U3923376B,Emma Manjón Rios,07340,Alaro,F,A,29,1139
+108,E25163361,María Guillen Almagro,07590,Pedruscada,F,B,23,2472
+109,V5592783D,Enzo Mate Vendrell,07800,Eivissa,F,B,86,2873
+110,F5879632G,Jana Méndez-Bastida,07340,Alaro,F,A,53,1481
+111,S1904996D,Jana Mateo Raya,07590,Pedruscada,F,A,85,3361
+112,A71252746,María Barrios Céspedes,07870,La Savina,F,B,21,2732
+113,A12455663,Jan Madrid Múñiz,07511,Ruberts,M,B,43,3383
+114,J0660856F,Aleix Teruel Rios,07340,Alaro,M,B,61,2864
+115,B34489716,Nil Bilbao Cordero,07511,Ruberts,F,A,85,2910
+116,F0172525H,María Dolores Aranda Solano,07590,Pedruscada,F,C,27,2321
+117,S9933947E,Montserrat Arévalo Cadenas,07340,Alaro,F,C,77,2283
+118,A98492903,Chlóe Almagro Antúnez,07340,Alaro,F,A,21,2779
+119,P7190016A,Carmen Laura Calzada Olivares,07009,Palma,F,A,47,2260
+120,A90613183,Leo Trujillo,07609,Bellavista,M,D,8,1684
+121,N3623733G,Álex Solera Nebot,07609,Bellavista,F,A,8,1588
+122,J5567754F,Jordi Castejón Ponce,07511,Ruberts,M,A,31,1547
+123,B23663156,Bruno Pedro Fajardo Arenas,07590,Pedruscada,F,B,42,1207
+124,S4350533H,Mia Pera Farré,07529,Ariany,M,C,48,3288
+125,C49004021,Marta Benet Arribas,07800,Eivissa,F,B,21,2206
+126,S4627046H,Nil Jaume Amor,07590,Pedruscada,M,C,34,3185
+127,F5547347D,Sofía Garzón,07511,Ruberts,M,A,87,3414
+128,S8885862F,Arnau del Vendrell,07009,Palma,F,D,80,2365
+129,R7901929E,Bruno Daniel Rojas Roca,07870,La Savina,F,C,61,2544
+130,U5515352B,Biel Ricart Barros,07013,Palma,F,A,66,3176
+131,C47698485,Manuel Costa Anglada,07529,Ariany,F,A,51,1227
+132,N8924666D,María Teresa Rincón Andrés,07800,Eivissa,F,A,52,3245
+133,D23587413,Laura Iriarte Bermudez,07529,Ariany,F,A,93,1967
+134,P1121508D,Antonia Carrión Palomar,07609,Bellavista,F,A,12,1045
+135,P1308663B,José María Oliveras Enríquez,07870,La Savina,F,B,25,1870
+136,Q9973717C,Hugo Paz Bejarano,07800,Eivissa,M,D,88,1946
+137,V8151461D,Chlóe Emma Acero Fuentes,07590,Pedruscada,F,A,37,1493
+138,P7965644C,Adam Marcos Peinado,07013,Palma,M,C,46,1259
+139,H20668711,Hugo Cifuentes Estévez,07590,Pedruscada,M,A,38,1986
+140,E03138229,Carla Tapia Ocaña,07701,Mao,M,C,23,2516
+141,H73471005,Carlos Anaya-Galindo,07870,La Savina,M,B,97,2539
+142,H68425958,Lucia Sáenz Marco,07350,Binissalem,M,A,34,2204
+143,D76109172,Ramón Josep Espejo Berrocal,07590,Pedruscada,F,A,39,1949
+144,Q7610698H,Pol Mena Crespi,07350,Binissalem,M,A,89,1600
+145,V5917771G,Chlóe Casares Gisbert,07703,Mao,F,B,21,2844
+146,U3304498C,Ona Herrero Guzmán,07511,Ruberts,F,A,33,2329
+147,N0156047C,Jordi Perales Rivas,07009,Palma,M,A,31,1770
+148,H73160822,Carlos Almansa Prada,07511,Ruberts,F,A,23,3439
+149,V8378226H,Antonio Catalán Rivera,07511,Ruberts,F,C,54,3024
+150,D95175030,Ramón Manuel Cisneros Roca,07350,Binissalem,F,C,70,1371
+151,W6707396E,José María Arnau Hurtado Sales,07609,Bellavista,F,C,51,1010
+152,D10830040,Paula Barco Peñalver,07590,Pedruscada,M,C,12,2837
+153,S2745961I,Abril Rincón Montes,07340,Alaro,F,A,96,2859
+154,D98115041,Emma Peral Marcos,07703,Mao,F,B,11,1050
+155,J5963690B,Antònia Esteve Camps,07350,Binissalem,M,A,34,1777
+156,Q9583757A,Bruno Correa-Salmerón,07529,Ariany,M,B,1,2900
+157,C34758144,Cristina Robles Rosales,07609,Bellavista,F,B,94,1355
+158,W8340706D,Jan Santana Niño,07800,Eivissa,F,A,25,3324
+159,U5284660G,Chlóe Padilla,07006,Palma,M,A,85,3138
+160,B64437247,Antònia Tomas Frías,07703,Mao,M,B,49,2609
+161,B41536566,Adam Martí Sevilla Aguilera,07013,Palma,M,A,19,3282
+162,R5343020C,Jorge Carbó,07350,Binissalem,F,B,10,2162
+163,W8826099G,Pol Daniel Rodrigo Soto,07870,La Savina,F,A,50,3460
+164,P7708074E,Nil Guerra Ramirez,07609,Bellavista,M,D,24,1188
+165,W6982082G,Albert Carrillo-León,07511,Ruberts,F,A,4,1887
+166,S8066595C,Adam Jerez Puig,07350,Binissalem,M,A,87,3130
+167,W4533025E,Sílvia Prieto,07870,La Savina,M,D,9,1236
+168,F3711318J,Arlet Iriarte Otero,07350,Binissalem,F,A,81,1970
+169,A75217695,Èric Arnau Aranda Bejarano,07701,Mao,F,A,20,1955
+170,N3021374H,Jorge Nieto-Carrasco,07800,Eivissa,F,D,6,2991
+171,V3700450D,Isabel Cárdenas,07009,Palma,M,A,28,1931
+172,F8286883G,Manuel Manjón Luna,07870,La Savina,F,C,97,2358
+173,S1027974C,Carmen Zabala,07701,Mao,M,A,73,3045
+174,N4240794J,Pol Calzada,07350,Binissalem,F,C,38,2674
+175,R0503510J,Rosa Quintanilla Lopez,07350,Binissalem,M,A,45,2832
+176,H86795929,Martí Juan Cervera Crespo,07529,Ariany,M,B,70,2851
+177,C95854246,Bruno Pizarro Quero,07701,Mao,M,B,17,2412
+178,P8360950C,Montserrat Chaparro-Martínez,07590,Pedruscada,M,A,90,1863
+179,H75961540,Noa Ribes Gibert,07511,Ruberts,F,A,13,3207
+180,U3218851H,Núria Valls Monreal,07013,Palma,F,A,4,1609
+181,N5396583F,Anna Saldaña Marín,07013,Palma,M,A,92,1012
+182,Q1301570F,Nil Badía Garriga,07609,Bellavista,M,A,71,2822
+183,H34504316,José María Soto Portillo,07350,Binissalem,M,C,97,1942
+184,W3304111B,Pedro Batlle Bertrán,07870,La Savina,M,A,42,2899
+185,S3102256I,Abril Paniagua Armengol,07340,Alaro,M,A,83,1706
+186,U7860754F,Adam León Marco,07340,Alaro,F,B,19,1222
+187,V1329938C,Daniel del Feijoo,07800,Eivissa,M,A,80,2602
+188,S7616549G,Marc Serna Murillo,07703,Mao,M,A,53,1630
+189,D16242851,Clàudia Muro Robles,07511,Ruberts,F,B,77,2060
+190,C17314253,Chlóe Salvà Coloma,07511,Ruberts,M,A,11,3412
+191,A39117999,Laura Castelló,07703,Mao,M,C,52,3284
+192,P4200002F,Enzo Saldaña,07590,Pedruscada,F,A,47,1886
+193,B43929769,María Roma Téllez,07350,Binissalem,M,D,97,2013
+194,V9768804H,Francisca Ferrández Saavedra,07529,Ariany,F,C,83,2853
+195,Q4196364F,Álex Pont,07590,Pedruscada,F,B,22,998
+196,N6285540H,Hugo Blazquez Estévez,07350,Binissalem,M,A,33,2330
+197,J1349456B,Anna Durán Guijarro,07590,Pedruscada,M,A,45,2956
+198,A93939957,Laia Antònia Vigil Luís,07340,Alaro,F,A,69,2021
+199,V3541704G,María Dolores Sedano Balaguer,07609,Bellavista,M,A,71,2828
+200,U8229682C,Sara Ros,07350,Binissalem,M,C,41,2096
+201,N0508616J,Montserrat Trillo-Iñiguez,07590,Pedruscada,F,A,68,2531
+202,P8316856G,Emma Navas Larrañaga,07013,Palma,M,C,6,2875
+203,U1531124D,Aleix Badía Cánovas,07340,Alaro,M,A,11,2699
+204,F5173068G,Abril Manjón Aguilar,07529,Ariany,M,D,26,1805
+205,N9871172D,Antonio Roman Girona,07590,Pedruscada,M,C,26,2762
+206,W8271156E,María Del Carmen Sara Giner Santiago,07511,Ruberts,F,A,46,1370
+207,J0623987E,José Calatayud,07340,Alaro,M,B,17,1954
+208,D50558675,Antònia Laura Moraleda Sarmiento,07006,Palma,M,A,6,1579
+209,S4386610B,Jana Andres Yuste,07350,Binissalem,F,A,65,3038
+210,F8728362H,Èric Peinado Bernat,07529,Ariany,M,B,26,2901
+211,D74905753,Pedro Oliva,07609,Bellavista,F,B,86,2089
+212,J4013734A,Èric Iglesias,07006,Palma,M,A,7,2251
+213,G46321204,Jorge Pedro Planas Iñiguez,07350,Binissalem,M,A,16,3081
+214,J4423794I,Marta Heredia Arribas,07340,Alaro,M,B,24,2942
+215,R9046124E,Ramón Antonio Agullo Serna,07590,Pedruscada,F,C,46,2477
+216,U0535679E,Mia Asenjo Revilla,07013,Palma,M,A,78,2967
+217,D34271841,Montserrat Sacristán Carranza,07800,Eivissa,F,B,65,1763
+218,F3837383C,Arnau Hernando Cabeza,07870,La Savina,M,B,41,2729
+219,U0545039J,Manuel García Saez,07609,Bellavista,F,A,34,2586
+220,D55822191,Antonia María Teresa Prado Ariza,07609,Bellavista,M,A,23,1935
+221,R1080312J,Jan Trillo Gimeno,07340,Alaro,F,A,10,1392
+222,D90480492,Joan Ortuño Montenegro,07800,Eivissa,M,C,50,2412
+223,B94177326,Arlet Machado Fortuny,07609,Bellavista,F,D,75,3494
+224,G89467385,Martí Pau Sevilla Julián,07340,Alaro,F,A,9,1274
+225,H95105359,Hugo Alegre-Carrera,07529,Ariany,M,B,34,2848
+226,S4422453C,Arlet Cristina Ribera Ibarra,07511,Ruberts,M,B,12,3066
+227,U1974566J,Jordi Agudo,07529,Ariany,M,A,86,1960
+228,N5793773B,Ona del Ayala,07340,Alaro,M,B,12,1741
+229,H33186362,Leo Llamas Carrasco,07609,Bellavista,F,C,73,1292
+230,W8205968D,Marta Gras-Luján,07590,Pedruscada,F,B,93,3258
+231,N4899824I,Jan de Villegas,07529,Ariany,M,A,84,1218
+232,U8036172H,Josep Hugo Perea Tenorio,07350,Binissalem,F,A,35,1256
+233,H25125147,David Carlos Alcántara Vargas,07006,Palma,F,C,16,2112
+234,Q4823418A,Martina Amaya Castilla,07340,Alaro,F,B,2,1817
+235,R2407748I,Chlóe Elorza Vicens,07800,Eivissa,M,C,68,3292
+236,P1299110E,Carlos Fábregas Valdés,07009,Palma,M,A,38,1385
+237,J1093470A,Emma Gutierrez-Catalán,07529,Ariany,M,A,86,1689
+238,V1923645D,Leo del Cazorla,07870,La Savina,M,B,27,1978
+239,C85301570,Arlet Amo Zurita,07800,Eivissa,M,B,18,1147
+240,G83576421,Marta Núria Sarmiento Mendizábal,07006,Palma,M,B,34,2258
+241,R1682283E,Hugo Cánovas Uría,07590,Pedruscada,F,B,82,3295
+242,V0809878B,Rosa Mir Bermúdez,07609,Bellavista,M,A,29,2808
+243,S0000414C,Carlos Querol-Feijoo,07529,Ariany,F,A,46,2768
+244,F4045442C,Júlia Plana Barranco,07511,Ruberts,M,A,52,3056
+245,H55190631,Aleix Miró,07340,Alaro,F,A,36,1971
+246,H32616435,José del Gonzalez,07511,Ruberts,F,B,58,1570
+247,S4645828G,José María Cámara-Mayol,07609,Bellavista,M,A,27,3293
+248,G94679230,José María Barragán Corbacho,07870,La Savina,F,C,32,3482
+249,N9111833A,Aina Tudela Barriga,07609,Bellavista,F,B,36,2798
+250,V5944165I,Jan Arrieta Alberola,07703,Mao,M,B,64,1837
+251,A80405939,Josep de Barrios,07609,Bellavista,F,C,41,1699
+252,V9614736H,María Teresa Cerdán Gascón,07800,Eivissa,F,A,76,3424
+253,S1967247F,María Teresa Cifuentes Palma,07529,Ariany,F,A,1,1088
+254,P3679511J,Enzo José Real Piñeiro,07590,Pedruscada,M,B,12,1902
+255,H19472208,Manuel Laguna Sevillano,07800,Eivissa,M,B,74,1013
+256,N9644669E,Xavier Casado Rebollo,07590,Pedruscada,M,A,11,2666
+257,U8773436D,Clàudia Acero Valle,07350,Binissalem,M,A,47,2569
+258,U8636110B,Pau Colomer Bernal,07701,Mao,F,C,89,3166
+259,J1421426F,Isabel Egea Huerta,07703,Mao,F,B,47,3456
+260,U2636275F,David Diéguez Bermudez,07340,Alaro,M,C,85,1663
+261,Q7671432H,Valèria Calleja Sebastián,07609,Bellavista,M,C,21,2953
+262,E79279188,Aleix Iriarte Nieto,07701,Mao,M,B,52,2431
+263,V8399690J,Aina Arce Valderrama,07350,Binissalem,F,A,92,1164
+264,G90647561,José María Marco Contreras,07703,Mao,F,B,84,1866
+265,G37445343,Isabel Vera Pagès,07529,Ariany,M,A,15,2071
+266,F3705675A,Lucas Nebot Lerma,07609,Bellavista,M,B,93,2080
+267,V3191739F,María Del Carmen Alcolea Mercader,07529,Ariany,M,A,11,1295
+268,E45311669,Júlia Somoza,07800,Eivissa,M,C,67,2010
+269,A31730872,Pol Jáuregui Arenas,07800,Eivissa,M,D,6,1765
+270,H02858397,María Del Carmen Carretero Quintanilla,07590,Pedruscada,F,A,52,2729
+271,F0049405D,Núria Azcona Almansa,07511,Ruberts,F,A,63,1619
+272,F3561668I,Aleix Izquierdo-Manjón,07800,Eivissa,M,D,75,3485
+273,J9097566E,Pedro Villalonga,07013,Palma,F,A,49,3083
+274,E38276804,María Iglesia Gallardo,07701,Mao,F,B,26,1867
+275,D17712852,Xavier Mur Herrera,07511,Ruberts,M,A,3,2475
+276,J0037972G,Rosa Osuna-Cámara,07609,Bellavista,M,D,57,2393
+277,D23432941,José Agullo Azcona,07701,Mao,F,B,73,2486
+278,Q8686001B,Chlóe Ocaña-Parejo,07511,Ruberts,F,A,27,1800
+279,U9163422J,Jordi Josep Uría Quintanilla,07701,Mao,F,B,37,2836
+280,S7424511I,María Teresa Clàudia Abella Chico,07590,Pedruscada,M,A,91,2496
+281,E08209306,Ana Sala-Casas,07870,La Savina,F,B,6,3210
+282,E51565117,Abril Tenorio Jiménez,07340,Alaro,M,A,99,2740
+283,N3093665B,Dolores Antonia Rodrigo Lopez,07340,Alaro,F,A,78,3237
+284,D59265231,Pedro Doménech Barroso,07800,Eivissa,M,A,4,2670
+285,N6885255G,Bruno Varela Planas,07340,Alaro,M,C,47,2326
+286,C85656361,Josefa Merino López,07009,Palma,M,B,90,2502
+287,R7644178A,Marc Lozano Jordá,07350,Binissalem,M,B,92,2257
+288,R3383685I,Paula del Nogués,07800,Eivissa,F,A,76,1817
+289,S1424248A,Marc Cifuentes,07529,Ariany,F,A,21,3359
+290,H15110828,Pau Cortés Plana,07590,Pedruscada,F,B,25,3178
+291,R6638109F,Montserrat Arce Requena,07703,Mao,M,A,31,1220
+292,A81356693,Francisca Aina Paredes Ángel,07529,Ariany,M,B,2,1728
+293,B07173057,Èric Pablo Valdés,07800,Eivissa,F,A,92,2242
+294,R6942571H,Jan Herranz Llobet,07340,Alaro,M,B,97,2551
+295,C89981997,Manuel Bermejo Samper,07013,Palma,M,A,14,2804
+296,F5217468G,Martí de Fabra,07009,Palma,M,A,39,1462
+297,R3102314F,Martí Bas Roldan,07609,Bellavista,F,A,52,1210
+298,W0499156H,Josefa Iriarte Ruiz,07529,Ariany,F,C,22,2686
+299,R9903966A,Laura Botella Melero,07870,La Savina,M,B,40,2665
+300,F8776226F,Nil Alba Iglesia,07350,Binissalem,M,A,64,1529
+301,P8911608A,Lucas Pomares,07350,Binissalem,F,C,84,1470
+302,Q1763114D,María Arenas Sola,07800,Eivissa,M,B,12,1837
+303,F1858175A,Sofía Castañeda Lopez,07009,Palma,M,A,44,2398
+304,E96006689,Aina Puig Sáez,07350,Binissalem,F,C,3,1762
+305,D18490359,Carmen Arnaiz,07350,Binissalem,M,B,64,1966
+306,E80463094,Xavier Olivera Paniagua,07009,Palma,M,C,12,2391
+307,Q4732048F,Antonio Farré Cano,07006,Palma,M,B,30,1571
+308,V4336702H,Noa de Miranda,07350,Binissalem,F,A,95,1829
+309,U8124210I,Josep Pozo Casares,07006,Palma,F,B,92,1598
+310,G25395047,Manuel Cisneros-Coloma,07511,Ruberts,F,A,98,1454
+311,P2592038J,Laia Vidal Barreda,07529,Ariany,F,A,16,2717
+312,V4394073C,Carlos Cañete Terrón,07350,Binissalem,M,C,14,3159
+313,G09838566,Pedro Arranz Ponce,07590,Pedruscada,M,B,13,3463
+314,S3210825J,José María Blanch Berrocal,07529,Ariany,F,C,84,1705
+315,S2160062B,Cristina del Fortuny,07350,Binissalem,F,C,53,3282
+316,F9480537A,Josep Izaguirre-Jove,07529,Ariany,F,B,92,1011
+317,B82700741,Montserrat Cortina,07800,Eivissa,M,D,25,1632
+318,U2982698I,Sara Corominas Arias,07340,Alaro,M,A,67,1432
+319,V1706965I,Cristina Vila-Aragón,07590,Pedruscada,M,C,58,2690
+320,H57178527,Antonia Ferrando Saura,07703,Mao,M,C,54,1722
+321,E77415735,Isabel Montserrat Yuste Cuervo,07800,Eivissa,F,A,88,2729
+322,V0229240G,Carmen Tamayo Barceló,07013,Palma,F,C,19,3182
+323,B99327256,Antònia del Acedo,07609,Bellavista,F,B,39,2688
+324,H21377270,Biel Roma Ortuño,07800,Eivissa,M,C,73,2495
+325,S4111857A,Mia Narváez-Pineda,07529,Ariany,M,A,56,2547
+326,E60485042,Martina Carrera,07870,La Savina,M,B,63,1829
+327,V9555497H,Josep Alsina Esparza,07703,Mao,F,A,44,2205
+328,H38495586,Albert Nebot Ferrando,07529,Ariany,M,A,64,2058
+329,N9453052D,Manuel Barrios Merino,07870,La Savina,M,C,31,1317
+330,D47404611,Anna Diéguez Pallarès,07800,Eivissa,M,D,57,3025
+331,E99496515,Manuel Balaguer Saez,07529,Ariany,F,C,44,2193
+332,H87832143,Valèria Jaume Menendez,07511,Ruberts,M,A,37,3006
+333,V4020800A,Montserrat Revilla-Escrivá,07529,Ariany,M,A,3,3398
+334,H12136909,Max Laguna Farré,07609,Bellavista,M,B,52,1244
+335,P3713510J,Antonia Pallarès Bárcena,07609,Bellavista,M,A,36,3424
+336,S1435513E,Albert Orozco Almazán,07701,Mao,M,A,8,1253
+337,N3961971C,Lucas Alcalde Moraleda,07340,Alaro,F,B,55,3393
+338,N9995170I,Sara Valcárcel Tamayo,07340,Alaro,F,A,27,3075
+339,G38428579,Álex Quesada Jáuregui,07006,Palma,F,B,72,3468
+340,S0687830J,Pedro Báez Bernat,07590,Pedruscada,M,C,16,1082
+341,G06155907,Marta Cabello Soto,07529,Ariany,F,A,36,3306
+342,C43270628,Daniel Villalonga Madrid,07009,Palma,M,D,26,1631
+343,P7094937E,Adam Peñas Nebot,07800,Eivissa,F,A,51,2892
+344,E65831380,Ramón Collado Cueto,07870,La Savina,F,C,86,2741
+345,A10904381,David Herrera Moya,07590,Pedruscada,M,A,69,2756
+346,C77714137,Miguel Puig Arregui,07006,Palma,F,A,91,2607
+347,U2928501B,Jan del Moya,07511,Ruberts,F,A,91,1486
+348,Q7950571E,Jan Ortuño Gonzalez,07609,Bellavista,F,C,73,2789
+349,J2481913H,Manuel Sierra Parra,07590,Pedruscada,M,B,99,1328
+350,G53870622,Carmen Pomares-Alcalde,07511,Ruberts,M,B,51,2712
+351,E44525459,Adam Porta Dueñas,07511,Ruberts,F,A,15,1948
+352,H92766294,Albert Amaya Morales,07800,Eivissa,M,B,41,2040
+353,H06930606,Abril Arenas,07340,Alaro,M,A,4,2035
+354,E53158457,Bruno Coloma Coronado,07800,Eivissa,M,B,47,2270
+355,B32522039,Aina Riquelme Rubio,07590,Pedruscada,M,A,67,2532
+356,V1436710F,Lucia Huguet-Cervera,07800,Eivissa,F,B,21,992
+357,D48158562,Ona Gascón Páez,07350,Binissalem,F,A,65,1519
+358,H85215754,Carlos Raya Orozco,07529,Ariany,M,B,30,2064
+359,C57471385,Marc Rubio Hoyos,07529,Ariany,M,B,14,1058
+360,U2848350A,María Gomila Prat,07350,Binissalem,F,A,45,3181
+361,U7281949C,Miguel del Bayón,07703,Mao,F,C,22,2137
+362,Q6961901C,Joan Zurita-Peral,07701,Mao,M,B,51,3480
+363,P4677233A,Aina del Gálvez,07800,Eivissa,M,B,10,2111
+364,U9761070C,Aleix Montoya-Portillo,07703,Mao,M,B,52,1127
+365,C42748517,Pol Atienza Cobos,07350,Binissalem,F,C,75,2169
+366,B68574623,Aina Robledo Pozuelo,07340,Alaro,F,A,3,3225
+367,H59712323,Arlet Serna Sevilla,07800,Eivissa,F,A,64,2274
+368,H82823162,David Niño Sánchez,07703,Mao,M,A,59,1155
+369,W3823959F,Clàudia Luz Vara,07870,La Savina,F,A,58,3040
+370,J9647867B,Juan Ojeda Clavero,07350,Binissalem,F,A,40,1580
+371,B26994558,Noa Villena Balaguer,07590,Pedruscada,F,D,15,1664
+372,V0203769E,Javier Elorza,07590,Pedruscada,M,A,21,3345
+373,R8759080H,Laura Marti-Pinto,07590,Pedruscada,M,B,87,2943
+374,B03485125,Jordi Rosado Arana,07511,Ruberts,F,B,54,2857
+375,P3054407F,Josefa Perez Galindo,07350,Binissalem,M,A,78,2842
+376,S1786342D,Carmen Catalán Canet,07340,Alaro,M,B,67,2728
+377,N8826522H,Marta Clàudia Anguita Ros,07800,Eivissa,M,B,13,3002
+378,D22865083,María Del Carmen Silva-Benitez,07529,Ariany,M,A,21,3101
+379,N0028275F,Marc Chacón Dominguez,07609,Bellavista,M,A,55,1833
+380,C12525184,Francisco Córdoba Gracia,07511,Ruberts,F,B,65,2294
+381,C89365431,Pedro Cerdá Ureña,07701,Mao,F,B,16,1426
+382,V8024651E,Júlia Naranjo Carrasco,07511,Ruberts,M,B,85,2277
+383,C73367682,Jana Cuadrado Noriega,07870,La Savina,M,B,38,1671
+384,V2460595H,Lucia Coca,07800,Eivissa,M,B,31,2787
+385,P6675596H,Sara Mayoral Guitart,07529,Ariany,M,B,38,1897
+386,B67551028,Marta Portero Soto,07529,Ariany,F,B,19,1122
+387,A16272049,Laia Redondo,07609,Bellavista,F,D,31,2760
+388,J2165108H,Arlet Correa Coloma,07013,Palma,F,B,26,1596
+389,J2439295C,Pedro Campillo Fuentes,07703,Mao,F,A,35,2822
+390,R2878715H,Valèria Ona Cantero Lasa,07870,La Savina,M,A,63,2791
+391,D82714791,Clàudia María Blázquez Araujo,07340,Alaro,F,B,50,3453
+392,H56029309,Bruno Paredes Terrón,07609,Bellavista,M,D,71,3034
+393,P6321146J,Arlet Santamaria Peinado,07350,Binissalem,M,B,39,1782
+394,P6346692D,Jana Torrecilla-Granados,07870,La Savina,F,A,78,1634
+395,W7732869H,Ramón Bermejo Verdejo,07006,Palma,F,A,22,2466
+396,R3490521F,Albert Diaz Villar,07703,Mao,M,A,1,3301
+397,Q0449387J,Valèria Galindo Ríos,07870,La Savina,M,A,25,2194
+398,D57507378,Jana Almazán Cañete,07590,Pedruscada,M,C,97,1672
+399,F3045231B,Clàudia Sainz Baeza,07529,Ariany,F,B,66,2160
+400,G13060470,Antònia Quirós Nadal,07609,Bellavista,F,A,8,2174
+401,J2146702B,Pau del Ariza,07511,Ruberts,M,A,56,2028
+402,R0671173C,Arlet Leiva Vera,07511,Ruberts,M,A,40,1470
+403,F7076074I,Sara Prado Suárez,07590,Pedruscada,F,A,82,2366
+404,Q3193518B,Enzo Gras-Pastor,07609,Bellavista,M,A,63,2807
+405,W0528064I,Jorge Cobo Saura,07350,Binissalem,F,C,2,2862
+406,W8445223D,Antonio Tejera Pozuelo,07800,Eivissa,M,B,23,2580
+407,V4373111F,María Dolores Briones-Lara,07701,Mao,M,B,76,2515
+408,R1047777F,Francisca Cantero Martin,07800,Eivissa,M,A,9,2140
+409,G47040985,Juan Burgos Chacón,07350,Binissalem,F,C,92,3130
+410,E95216149,Carlos Fiol Aguilar,07800,Eivissa,F,A,43,3086
+411,D59417212,Lucas Trujillo Campo,07800,Eivissa,M,C,46,1955
+412,P5405380F,Sara Olivera Novoa,07870,La Savina,F,A,14,2285
+413,W7636633E,Adam Hernández González,07511,Ruberts,M,B,49,2929
+414,B93943629,Laia Llobet Gomila,07511,Ruberts,M,C,43,1928
+415,V4670845I,Nil Pacheco Verdú,07511,Ruberts,F,A,73,1527
+416,F9885576J,Antònia Berenguer Mayol,07701,Mao,F,B,88,3301
+417,U8026794A,María Teresa Gonzalo-Pedrero,07800,Eivissa,M,A,29,3241
+418,Q6319217C,Chlóe Guardiola Maestre,07006,Palma,F,C,88,2057
+419,W8250280H,Miguel Palomar,07701,Mao,F,B,39,1227
+420,F1512894E,Leo Carlos Carreras Quero,07870,La Savina,F,A,95,3240
+421,A70281951,Ona Sotelo Granados,07511,Ruberts,M,B,17,1856
+422,V6575199B,Marta Rosales Lobato,07006,Palma,M,B,92,3445
+423,C99097164,María Del Carmen Luna Calzada,07529,Ariany,M,A,96,2992
+424,N7311188B,Júlia Carrillo Salmerón,07701,Mao,F,D,10,2572
+425,U0447392B,José María Hervia Estévez,07511,Ruberts,F,C,45,1320
+426,E94261286,Núria Granados Canet,07701,Mao,M,B,84,2884
+427,Q8721252H,María Sobrino Vilanova,07529,Ariany,F,B,32,2191
+428,W3133358F,Sofía Giménez Pujol,07590,Pedruscada,F,A,33,1589
+429,N7218239G,Laia Torrecilla,07511,Ruberts,F,A,6,2389
+430,R1386172I,Josep de Briones,07529,Ariany,F,B,19,2436
+431,G89274328,Laura Prado Gordillo,07350,Binissalem,M,A,7,1538
+432,B88624846,Anna Arjona Ramos,07529,Ariany,F,B,24,3149
+433,P9772141I,Javier Fonseca Morillo,07590,Pedruscada,M,A,82,2228
+434,J7048901H,Bruno Escrivá Pascual,07870,La Savina,F,A,32,996
+435,A79493458,Hugo Arranz Aguiló,07870,La Savina,M,B,63,2232
+436,D09548470,Rosa Acuña Castilla,07013,Palma,M,B,36,1295
+437,B33958240,Èric Bilbao Solano,07703,Mao,F,C,51,2046
+438,U7466187G,Adam Viña,07340,Alaro,F,B,27,1569
+439,J6208406F,María Dolores Antonia Elorza Guillén,07511,Ruberts,F,B,27,3417
+440,J6351730D,Manuel del Taboada,07870,La Savina,M,C,1,1234
+441,N6515800H,Marc Gallo Piquer,07701,Mao,M,A,82,2075
+442,N1796226G,Joan Andrade Oliver,07511,Ruberts,M,A,47,2406
+443,F0737818E,Lucia Santiago Cañizares,07350,Binissalem,M,D,6,1688
+444,R0919394G,Paula Antònia Infante Calderón,07006,Palma,F,C,29,2627
+445,C16564197,Joan Amador Cifuentes,07701,Mao,M,A,50,1076
+446,F7417321B,Carmen María Galan Montenegro,07870,La Savina,F,A,31,1517
+447,S4114543D,Manuel Verdejo,07701,Mao,F,A,91,1699
+448,V0819997H,Carla Camacho,07609,Bellavista,M,B,20,2561
+449,S0836600G,Carla Verdú Salvà,07870,La Savina,M,A,1,1633
+450,Q2538407D,Cristina Sanz Nicolás,07529,Ariany,M,A,47,1330
+451,B93086569,Manuel Iñiguez Pi,07529,Ariany,M,A,49,3302
+452,V0932344E,Xavier Vega Narváez,07350,Binissalem,F,A,30,1191
+453,Q8419027A,Max de Orozco,07590,Pedruscada,F,B,81,2362
+454,J0714760F,María Dolores Alvarez Salvador,07870,La Savina,F,A,38,1120
+455,F0155743H,Ramón Quirós Salmerón,07870,La Savina,F,B,46,2763
+456,A21590500,Marc de Isern,07703,Mao,M,A,99,2674
+457,F6894166E,Noa Chico Gracia,07800,Eivissa,M,A,50,2411
+458,S5268995G,Júlia Palomino Torre,07870,La Savina,M,A,65,1252
+459,F1363711A,Chlóe Paula Bonilla Expósito,07006,Palma,M,A,25,2868
+460,J6200329H,Pedro Bruno Barral Cortina,07340,Alaro,M,A,85,3328
+461,V8823902E,Ana Múñiz Cueto,07340,Alaro,M,D,84,2739
+462,G35863158,María Expósito Reina,07350,Binissalem,F,A,82,2120
+463,F6571599G,Dolores Diez Portillo,07800,Eivissa,M,A,41,2615
+464,B79399416,José Viñas Expósito,07340,Alaro,F,C,19,1754
+465,R1642720E,Cristina Vives Roura,07703,Mao,M,A,33,1363
+466,P7728114E,Nil Garcés Sainz,07340,Alaro,M,A,88,1373
+467,D18444000,Jan Torrent Moll,07511,Ruberts,M,A,31,2974
+468,V9295491F,Dolores de Arranz,07701,Mao,F,B,11,3148
+469,S7140985H,Carlos Herrero Salazar,07800,Eivissa,M,B,37,2783
+470,D24228744,Francisca Arlet Villalobos Roig,07340,Alaro,M,C,67,2029
+471,F9359687B,José Nil Fernandez Cárdenas,07609,Bellavista,M,A,5,1348
+472,R7657169D,Sara Palacios Ríos,07511,Ruberts,F,A,18,1886
+473,C49819790,Mia Moll Solís,07609,Bellavista,M,B,33,1086
+474,G14253546,Daniel Gimeno Carballo,07340,Alaro,M,A,88,1320
+475,R4261909H,Lucas Simó Gallo,07609,Bellavista,M,B,97,2211
+476,U7334080D,Ana Almazán Ramis,07350,Binissalem,F,A,51,1602
+477,C44527851,Arnau Revilla,07529,Ariany,M,B,77,2760
+478,A07169873,Sofía Reina-Galvez,07340,Alaro,M,C,66,2215
+479,N4357532C,Carlos Tovar Mendizábal,07590,Pedruscada,M,A,18,2439
+480,C68971456,Rosa Batalla Bermudez,07609,Bellavista,F,B,25,3042
+481,V0322673E,Núria Abril Frías Rius,07009,Palma,F,C,12,1670
+482,D77033637,Martina Laia Blanes Alvarado,07350,Binissalem,M,B,79,1751
+483,R0561290H,Albert del Corral,07701,Mao,F,B,57,3349
+484,E26752022,Jana Canet Salvador,07590,Pedruscada,M,A,88,2913
+485,P6119395I,Hugo Piñeiro-Plana,07800,Eivissa,M,B,7,2344
+486,U7987925J,Lucia Gracia,07350,Binissalem,M,A,87,2329
+487,V0391335G,Jana Borrell-Arregui,07340,Alaro,F,A,52,1581
+488,C49689425,Josep Toro Barroso,07340,Alaro,M,B,94,2534
+489,G77675940,Noa Royo,07590,Pedruscada,F,B,95,1750
+490,Q3562736C,María Amador Carnero,07350,Binissalem,M,C,23,1316
+491,J3993165D,Valèria Cañellas Cifuentes,07590,Pedruscada,M,A,27,1690
+492,N1027967G,Bruno Ropero Huguet,07350,Binissalem,M,A,61,3029
+493,P0861382J,Joan Lamas Planas,07511,Ruberts,F,B,13,1283
+494,D32850570,José María Manzanares Pereira,07350,Binissalem,F,C,99,1872
+495,C13148937,Dolores Rosa Barreda Nevado,07340,Alaro,F,B,49,1786
+496,F4481419B,Sara Alcalá,07340,Alaro,F,C,64,3035
+497,R2000181D,Nil Almeida Jordá,07609,Bellavista,F,A,65,3082
+498,U1311828F,Carmen Núñez Cabezas,07013,Palma,F,A,40,2727
+499,N3348645G,Sara María Dolores Bauzà Infante,07800,Eivissa,F,A,32,1821
+500,C25635186,Arlet Viñas-Benavides,07350,Binissalem,M,C,39,3202
+501,V3491128I,Carmen Toro-Aramburu,07870,La Savina,F,D,93,1231
+502,S9949218C,Francisca Olivera,07340,Alaro,M,A,8,1128
+503,U5047622E,Ramón Gaya Elorza,07511,Ruberts,M,A,8,1510
+504,W9657791A,Lucas de Saavedra,07350,Binissalem,F,A,77,2045
+505,B30857866,Clàudia Leon Olivé,07340,Alaro,F,A,67,1936
+506,N5162727A,Dolores de Solana,07529,Ariany,M,A,68,3055
+507,E33805821,Carmen Lloret Abad,07350,Binissalem,F,A,54,2731
+508,S0842159F,Josep Mendez Morales,07590,Pedruscada,M,A,49,3318
+509,C06031215,Arnau Alcalá Manzano,07511,Ruberts,M,C,57,2443
+510,W2155902F,David Llopis Fortuny,07703,Mao,F,A,75,3137
+511,D76311646,Sara Olivares,07870,La Savina,F,A,81,1803
+512,E00418921,Antònia Ribera Valverde,07870,La Savina,F,A,19,2083
+513,F5493871G,María Dolores de Bernat,07609,Bellavista,F,B,9,1742
+514,C11106531,Montserrat Morante-Dávila,07511,Ruberts,M,C,88,2963
+515,J6460552J,Jan Marc Madrid Angulo,07350,Binissalem,F,A,15,3456
+516,C64648132,Adam Leon Benito,07350,Binissalem,M,B,61,1685
+517,J1113678E,Laura Madrigal Atienza,07013,Palma,F,A,20,1712
+518,P2684884F,Pedro de Jover,07870,La Savina,F,A,51,2488
+519,H52650512,Anna María Riquelme Lucas,07340,Alaro,F,C,27,2504
+520,P4883843G,Francisca Izaguirre-Milla,07609,Bellavista,F,B,61,1016
+521,S0483594H,Núria del Casado,07006,Palma,F,C,45,3458
+522,D96508734,Martina Doménech Viñas,07511,Ruberts,F,A,39,1216
+523,C84813252,Hugo Tejada Pla,07529,Ariany,M,D,71,993
+524,C07340748,Jan Bertrán Mendez,07609,Bellavista,F,A,16,1631
+525,U3122187B,Enzo Castells Río,07350,Binissalem,M,C,2,1448
+526,B19995182,Juan Zaragoza Riba,07800,Eivissa,M,B,75,3194
+527,V1424285C,Pedro Hoz Valero,07800,Eivissa,M,A,17,2353
+528,G99199044,Joan Lucas Rosado Sotelo,07009,Palma,F,C,73,1048
+529,C31945363,David Zamora Palau,07529,Ariany,F,B,41,1495
+530,A10188571,Jan Corbacho,07529,Ariany,F,A,21,1794
+531,V7179827F,Jorge de Estrada,07511,Ruberts,F,B,38,2457
+532,V9903612A,Jana de Escudero,07800,Eivissa,M,B,66,2905
+533,C38484762,Manuel de Hervia,07703,Mao,F,A,67,2049
+534,J2633650C,Carmen de Huguet,07609,Bellavista,F,A,67,1203
+535,W9937986I,Laia Almazán,07511,Ruberts,F,B,10,2450
+536,H84460641,Dolores Barrios Requena,07340,Alaro,F,B,54,2984
+537,H02403780,Leo Vega Pons,07800,Eivissa,M,C,26,1400
+538,R5702797A,Leo Zorrilla,07340,Alaro,M,A,69,3022
+539,W1277905D,Arlet Castañeda Boix,07870,La Savina,F,B,6,2066
+540,H81010118,Abril de Alarcón,07870,La Savina,F,A,27,1111
+541,J7069149H,Lucas del Llorens,07870,La Savina,M,A,37,2659
+542,Q6474128C,Marta Prieto Jordá,07800,Eivissa,M,A,75,983
+543,G46871539,David Herrera Gallego,07511,Ruberts,M,B,99,3095
+544,D72768286,Álex Vidal Bautista,07609,Bellavista,F,B,96,2513
+545,B84553676,Isabel Sanjuan Cañizares,07800,Eivissa,F,B,91,2110
+546,P7573537C,Ona Júlia Alcalde Coloma,07340,Alaro,M,A,66,2951
+547,Q0473768J,Marta Pedraza Martinez,07701,Mao,M,B,37,1302
+548,U4582179J,Jana Cañellas,07870,La Savina,M,B,8,1656
+549,U2390835C,Miguel Flores Puente,07013,Palma,F,B,72,2938
+550,S9653234F,Noa Mata Sacristán,07590,Pedruscada,F,C,26,2598
+551,R0079992D,Miguel Marti Mármol,07350,Binissalem,F,A,33,1706
+552,N9153245G,Valèria Pintor Priego,07350,Binissalem,F,A,36,1972
+553,V6488590H,María Del Carmen Valls-Martí,07013,Palma,M,A,95,3177
+554,U0354100J,Isabel Fabregat-Rosado,07870,La Savina,M,B,42,2654
+555,Q7727943H,Javier Vilar,07701,Mao,F,A,81,2547
+556,R8649679A,Pau Checa Villar,07529,Ariany,M,B,67,1406
+557,D31609092,Ona del Noguera,07800,Eivissa,M,A,45,3244
+558,J6774187F,Marc Mata-Sastre,07701,Mao,F,A,20,2179
+559,Q4841075G,Anna Ferrera,07701,Mao,M,D,94,2638
+560,U5081223I,Max Bayona-Alfaro,07590,Pedruscada,M,A,77,2346
+561,Q8776830E,Biel Jerez,07590,Pedruscada,M,A,25,1674
+562,S5510014C,Francisco Esteban Durán,07800,Eivissa,F,C,46,3334
+563,G91688374,Josefa Agullo Alegre,07800,Eivissa,M,C,10,1155
+564,E63612089,David Menéndez Guzman,07340,Alaro,M,A,65,2894
+565,A24375123,Núria Parejo Pacheco,07800,Eivissa,M,D,22,2149
+566,C02032407,Marc Carlos Amat,07590,Pedruscada,M,B,55,2565
+567,C28659548,Adam Llamas Osorio,07006,Palma,M,C,55,1443
+568,J3496358G,Leo Figueras,07013,Palma,M,C,19,3059
+569,S3129735A,Cristina Escamilla Valderrama,07009,Palma,F,A,60,1933
+570,J0747841E,Pau Ramón González,07529,Ariany,F,B,89,2045
+571,B37328481,Álex Rubio Angulo,07529,Ariany,M,B,22,1922
+572,A15471204,Pau Blázquez Rius,07590,Pedruscada,M,C,82,1594
+573,U9086090I,José Èric Barriga Nicolau,07609,Bellavista,M,A,2,2979
+574,S7006544F,Josep Lledó Torre,07340,Alaro,F,B,92,1942
+575,G04909628,Valèria Muro Lerma,07870,La Savina,M,D,78,2539
+576,V7604274F,Max Cuervo Campos,07350,Binissalem,M,A,12,1670
+577,A66246497,Jana Quiroga,07529,Ariany,F,B,31,3357
+578,U7785254I,Mia María Dolores Cuenca Rius,07529,Ariany,M,B,19,1746
+579,W5624833I,Bruno Cantón Estevez,07703,Mao,F,D,24,1803
+580,V3252586G,Júlia Cabo Roig,07609,Bellavista,M,B,43,3199
+581,R1958885D,Joan Cano-Pagès,07800,Eivissa,F,A,95,2942
+582,B37115805,Rosa Benavides,07609,Bellavista,F,A,80,3026
+583,U6957622A,Aleix Alcolea Chacón,07009,Palma,F,A,74,3175
+584,H91381996,Manuel Plaza Teruel,07800,Eivissa,M,B,27,3457
+585,R7295519H,Josep Checa Blázquez,07350,Binissalem,M,A,37,1511
+586,E44853612,Sílvia Gomis Atienza,07529,Ariany,M,C,30,2667
+587,E12217808,Manuel Amorós,07701,Mao,F,A,98,1817
+588,J3568445E,Lucas Cazorla Martinez,07350,Binissalem,M,B,54,1531
+589,B11848199,María Del Carmen Ballesteros Salinas,07800,Eivissa,M,A,54,1326
+590,C57599177,Chlóe de Galan,07870,La Savina,M,B,28,3361
+591,P9219685F,Clàudia Borrell-Soria,07529,Ariany,M,B,66,2110
+592,R8299987A,Joan Javier Galán Quintana,07703,Mao,F,A,14,3415
+593,C04738977,Álex Zabaleta Becerra,07511,Ruberts,M,A,20,2445
+594,D28371128,Jordi Cortes Chico,07511,Ruberts,F,B,89,1163
+595,Q5408248B,Carmen Carbó,07511,Ruberts,F,B,15,1996
+596,W4894626C,Abril Morales Codina,07511,Ruberts,M,A,75,2054
+597,W2442294A,Sílvia Barros Boix,07800,Eivissa,M,B,71,1285
+598,H34831875,Emma Izaguirre Sanmartín,07800,Eivissa,M,A,39,2996
+599,W2370354I,Núria Sosa Zurita,07800,Eivissa,F,B,57,2770
+600,N3183366H,Arnau Moles Ródenas,07609,Bellavista,F,C,91,1647
+601,G73283426,María Del Carmen Tenorio Rojas,07340,Alaro,F,A,75,2718
+602,R8244192D,Antonia Gimenez,07590,Pedruscada,F,A,32,2662
+603,Q2892163C,Lucas Vidal Millán,07703,Mao,F,A,47,3152
+604,J5448569C,Antonio Clemente Costa,07340,Alaro,F,D,88,1007
+605,P2022285G,Leo Carmona Bayo,07703,Mao,M,C,45,3113
+606,V4069745J,Josefa Mate,07703,Mao,F,C,66,1497
+607,P6767010I,Noa Quesada Montaña,07340,Alaro,F,A,15,1808
+608,H13600903,Montserrat Ona Ojeda Guerra,07013,Palma,M,A,42,1577
+609,E66344706,Ana Plana,07350,Binissalem,M,D,60,2982
+610,U3026864C,Lucia Vila Aguilar,07870,La Savina,F,A,13,1144
+611,A68615343,Xavier de Talavera,07870,La Savina,M,A,69,2509
+612,G23247836,Juan Rozas Hervás,07800,Eivissa,M,B,35,1764
+613,W8011736I,Aina de Arjona,07511,Ruberts,M,B,47,1299
+614,N3951945I,Marta Ariño-Paz,07609,Bellavista,M,C,21,1977
+615,B06037816,José Leon Torre,07529,Ariany,F,B,7,1593
+616,C11118106,María Dolores Abella Guzman,07800,Eivissa,F,B,28,2160
+617,W4719275B,Marta Cuevas Arranz,07350,Binissalem,F,A,2,1045
+618,U6814695J,Paula Cózar Pol,07511,Ruberts,M,A,94,3254
+619,F2785749I,Miguel Francisco Amores Santos,07870,La Savina,F,A,15,1771
+620,V0161256C,Valèria Cristina Sala Miró,07870,La Savina,F,A,10,3414
+621,V0004304B,Laura Ropero-Cobos,07590,Pedruscada,F,B,74,1091
+622,F2438074C,María Teresa Posada,07350,Binissalem,F,C,72,1453
+623,J0080864B,Juan del Marquez,07350,Binissalem,F,A,16,1355
+624,H92143171,Francisco del Herranz,07870,La Savina,M,A,66,1549
+625,C82217365,Sílvia del Sarabia,07609,Bellavista,F,C,48,2490
+626,D19894609,José de Montserrat,07590,Pedruscada,M,C,6,1756
+627,S5377515A,Daniel del Duran,07529,Ariany,M,A,70,1633
+628,N1378214I,Valèria de Salvador,07340,Alaro,F,A,19,2805
+629,H71754113,Emma Escudero Palma,07350,Binissalem,M,D,10,2679
+630,A06192769,Isabel Antònia Valdés Gallo,07609,Bellavista,M,C,68,3182
+631,F2972460F,Leo Joan Vigil Franch,07800,Eivissa,F,A,33,2283
+632,G69160133,María Dolores Miró Almansa,07529,Ariany,M,A,55,3444
+633,H98970122,Èric Figueras Cárdenas,07870,La Savina,M,A,17,2805
+634,V4538843F,Montserrat de Iglesia,07006,Palma,M,A,69,2955
+635,C45831740,Júlia Torrecilla,07340,Alaro,M,A,10,1403
+636,G56653934,Laura Pol Ballester,07350,Binissalem,F,B,76,1263
+637,W0843170B,Álex Nadal Cuesta,07350,Binissalem,F,A,64,3206
+638,N8832049D,Ramón Ríos-Mendizábal,07609,Bellavista,M,D,76,1141
+639,A90905910,María Dolores del Perera,07009,Palma,F,B,78,2755
+640,N9222978J,Arnau de Bou,07609,Bellavista,M,D,23,1724
+641,N1900593C,Aina Vilalta,07013,Palma,F,A,41,1104
+642,H95531422,Valèria Báez Gutierrez,07800,Eivissa,F,B,33,2674
+643,W8243053I,Aleix Bustos Miguel,07350,Binissalem,F,B,17,2773
+644,S5488761G,Lucas Castellanos Figuerola,07701,Mao,M,C,48,2773
+645,E37912367,Jordi Cuenca-Espejo,07350,Binissalem,F,A,95,1883
+646,B45725611,Francisca Cerro-Castillo,07609,Bellavista,M,A,86,1272
+647,U0624532H,Javier del Mateos,07529,Ariany,F,B,54,3399
+648,U9604006H,Joan Fuente Bermudez,07350,Binissalem,M,B,15,2620
+649,E95990503,Manuel Espada Flor,07870,La Savina,M,C,46,1345
+650,U7058299D,Aina Ortega-Tena,07511,Ruberts,M,A,15,2795
+651,C78795366,Joan Bilbao Lorenzo,07703,Mao,M,A,83,2713
+652,W1270688C,Francisca Abril Clemente Galan,07529,Ariany,M,A,63,2999
+653,C05545082,Abril Ripoll-Castejón,07529,Ariany,M,B,51,2418
+654,E27126655,Nil Armengol Vaquero,07511,Ruberts,M,C,62,3073
+655,F0885290G,Francisca Díaz Saura,07511,Ruberts,F,B,89,993
+656,F4661975E,Mia Guardia Llopis,07340,Alaro,M,A,21,3405
+657,N5829892H,Biel Olmo,07590,Pedruscada,F,C,20,2258
+658,G51479624,Josefa Osorio Luna,07350,Binissalem,F,C,15,3426
+659,J6814269D,Jordi Poza,07800,Eivissa,F,A,45,3437
+660,D08129116,Enzo Peña Carbonell,07350,Binissalem,M,A,31,2120
+661,V7804251B,Arlet Villanueva-Chacón,07529,Ariany,M,A,27,2869
+662,R5394366H,Chlóe Rocamora Jurado,07870,La Savina,M,C,51,1591
+663,R2850041A,Dolores de Bayona,07340,Alaro,F,B,63,1545
+664,H92065861,Martí Morillo-Peñalver,07511,Ruberts,F,A,2,2931
+665,D93785574,Anna Ocaña,07529,Ariany,M,C,22,2176
+666,E59442582,María Casas Cornejo,07529,Ariany,F,A,71,1013
+667,E62193735,Jorge Salcedo Villalonga,07013,Palma,M,B,93,1837
+668,P5018303G,María Dolores Gallo-Solís,07609,Bellavista,M,B,19,1716
+669,E32904484,Lucas Bonilla,07350,Binissalem,F,A,2,2401
+670,F8692847J,Pol Quesada Carro,07340,Alaro,F,A,58,2873
+671,H65276750,Montserrat Diez,07701,Mao,F,A,89,2957
+672,P1771010D,Èric Guijarro Hernandez,07350,Binissalem,M,A,72,2005
+673,P7982718D,Leo Ramos Baños,07013,Palma,M,B,67,1606
+674,D05233903,Emma de Gil,07609,Bellavista,M,A,72,2380
+675,P5352598F,Antònia Feliu Cabo,07009,Palma,M,A,45,1169
+676,N6616815D,Carmen Ferrero,07009,Palma,F,B,49,1448
+677,G43886340,Sofía del Prat,07870,La Savina,F,B,20,2391
+678,H91509901,Miguel Andres-Orozco,07340,Alaro,M,A,12,1381
+679,Q0646603A,Emma Aramburu Figueroa,07701,Mao,F,A,42,2336
+680,R1874521F,Emma Villaverde Garay,07009,Palma,M,C,80,2283
+681,U8778209J,Daniel Guzmán Santiago,07609,Bellavista,F,A,63,3114
+682,J2807034J,Antònia Llorente Manjón,07703,Mao,M,B,25,2904
+683,S1317962G,Lucia Martorell Borrego,07013,Palma,F,B,96,2892
+684,F0562131C,Carla Núria Pellicer Borja,07609,Bellavista,M,A,71,1632
+685,B16196628,Carlos del Heredia,07350,Binissalem,M,A,78,2615
+686,E34971200,Nil Luna Cobo,07511,Ruberts,M,A,22,1269
+687,E21008313,Martina Coello,07006,Palma,M,A,85,3123
+688,Q0631812E,Pau Montoya Montero,07703,Mao,M,B,61,3367
+689,G95309258,Juan Feliu Fonseca,07590,Pedruscada,M,A,43,1327
+690,B86943925,Pedro Marc Pinedo Prat,07340,Alaro,F,A,44,2017
+691,S1292284E,Daniel Saez Benítez,07870,La Savina,M,A,74,1261
+692,B94893997,Daniel Pedro Fabra Tovar,07703,Mao,M,A,67,1141
+693,J3589747I,Chlóe Comas Román,07701,Mao,F,A,43,1775
+694,R6286599C,Francisco Caro-Cruz,07006,Palma,M,C,81,1692
+695,C33214099,Martí Roda Escobar,07350,Binissalem,F,B,17,2156
+696,R0341146I,Jorge Soriano Blázquez,07350,Binissalem,F,A,3,3177
+697,A76424654,Arlet Cabrero Urrutia,07701,Mao,M,A,43,3165
+698,R1333718C,Pedro de Andrés,07800,Eivissa,F,B,6,1889
+699,P2288234D,Antònia Solana-Juan,07013,Palma,M,A,35,2823
+700,V5737272D,Jana Peñalver-Cámara,07703,Mao,F,A,97,1359
+701,G61026159,Bruno de Valdés,07340,Alaro,F,B,18,1057
+702,G57556748,Adam de Clemente,07006,Palma,M,A,76,1203
+703,J4435738B,Chlóe Chlóe Elías Bayo,07340,Alaro,M,A,20,1998
+704,D75428185,Joan Bustos Lerma,07511,Ruberts,M,B,28,2252
+705,Q8580576J,Montserrat Sofía Jordá Rivas,07800,Eivissa,F,A,73,1740
+706,G25479817,Antonio Cid Sanmiguel,07800,Eivissa,F,B,85,2304
+707,C72936081,José María Méndez Izquierdo,07529,Ariany,M,A,17,3041
+708,P0281714F,María Alonso Martin,07800,Eivissa,M,A,83,2784
+709,A60181641,Francisco de Cobo,07701,Mao,F,A,89,3189
+710,Q1174082F,Pedro de Santamaría,07609,Bellavista,F,A,6,1253
+711,B19082965,Abril Ibáñez Rivero,07511,Ruberts,F,B,25,2867
+712,Q2712254H,Paula Castelló-Mármol,07350,Binissalem,F,A,78,2005
+713,E23786718,Rosa Pont-Fonseca,07511,Ruberts,F,B,3,2288
+714,R4494305H,Biel Martí Lerma Gálvez,07340,Alaro,F,B,60,3120
+715,P7890398F,Jorge Blazquez-Pedro,07340,Alaro,M,A,65,2825
+716,B90206715,Martí Amo Pomares,07701,Mao,M,B,26,1549
+717,S7904024B,Anna Machado Vicens,07701,Mao,M,C,69,2071
+718,Q2155541B,María Teresa Montserrat Villar Ferreras,07800,Eivissa,F,B,52,1830
+719,W1033972I,Adam Lasa Campo,07870,La Savina,F,A,75,1335
+720,A98207426,Jana Figuerola Tormo,07609,Bellavista,M,B,93,1863
+721,G18029637,Jana Villalba Quintero,07609,Bellavista,F,C,31,2645
+722,H33723438,Nil Ledesma Dueñas,07590,Pedruscada,M,A,89,3338
+723,A01667005,Francisco Nicolau Jurado,07800,Eivissa,F,B,1,2850
+724,H19556646,Albert Rubio Menéndez,07701,Mao,F,A,6,2722
+725,C00031765,Dolores Murillo Reguera,07609,Bellavista,M,B,57,1341
+726,H25847559,Bruno Iborra Pallarès,07529,Ariany,F,B,13,1559
+727,A39738489,Mia Durán Pablo,07511,Ruberts,M,A,53,2850
+728,F3041243A,María Teresa Redondo Pastor,07340,Alaro,F,B,43,1842
+729,N8920471C,Arlet Bonilla-Santamaría,07340,Alaro,M,C,90,2744
+730,H91493478,Biel Alcántara Zamorano,07013,Palma,F,B,62,1515
+731,H96204615,Noa Gámez Pozuelo,07800,Eivissa,F,A,80,1130
+732,B32199614,Manuel Barceló Marti,07340,Alaro,F,A,41,2611
+733,F7669614E,Clàudia Laia Lopez Zurita,07870,La Savina,F,B,6,1575
+734,D00573808,Ramón Navas Abad,07006,Palma,M,A,37,2630
+735,D06202717,Adam Buendía Nicolau,07703,Mao,M,A,70,2205
+736,P7297039E,Mia Fiol Herrero,07350,Binissalem,M,B,65,2614
+737,W6883838B,Sofía Serra Jurado,07703,Mao,M,B,75,1853
+738,G87922993,Clàudia del Páez,07870,La Savina,M,A,57,1684
+739,S9903898F,Biel Acuña Campo,07511,Ruberts,F,A,86,1855
+740,P4679514B,Emma Miguel Cardona,07870,La Savina,F,B,41,1407
+741,D04222253,Laia Bru,07013,Palma,M,D,15,2448
+742,Q6911666C,Pol Malo Barrera,07350,Binissalem,F,A,17,2393
+743,A79453726,Bruno de Sales,07703,Mao,M,B,58,3109
+744,Q8364779B,David Sola Jordá,07870,La Savina,M,A,12,1955
+745,G04635736,Martí Amores Pinedo,07529,Ariany,F,A,12,2488
+746,E30031868,Bruno Cabrera Menendez,07703,Mao,M,A,91,1998
+747,Q5312058J,Leo Gallardo Jerez,07009,Palma,F,A,22,1652
+748,P6270656I,Francisca Sierra Vargas,07529,Ariany,M,A,8,1798
+749,N4359127J,Martina de Roig,07529,Ariany,F,B,7,3377
+750,F9553031G,Manuel Guillen Luque,07511,Ruberts,M,A,46,2899
+751,C37174497,Ona Mir Suárez,07701,Mao,M,A,94,2470
+752,S3080492F,Jana Ocaña Llamas,07590,Pedruscada,F,A,42,2429
+753,V4267732H,Enzo Girón Sevilla,07609,Bellavista,M,B,70,1541
+754,C30741268,Aina Perales Sánchez,07006,Palma,M,A,3,3029
+755,B44596989,Júlia Isabel Almazán Cal,07590,Pedruscada,M,A,34,3216
+756,E58023003,Paula Esparza Figueroa,07350,Binissalem,F,B,41,3420
+757,A55627921,Valèria Mármol Cañas,07350,Binissalem,F,A,61,1537
+758,P4558079B,Nil Riba Solera,07590,Pedruscada,M,C,36,1201
+759,E39035928,Martina Albero Figueroa,07800,Eivissa,M,A,19,2983
+760,D14327563,Emma Bayo-Trujillo,07013,Palma,M,B,33,2723
+761,G31175730,Arnau Villena Quirós,07701,Mao,F,B,60,1936
+762,H34903302,Josefa Emma Bermúdez Roman,07870,La Savina,F,B,79,3464
+763,U9795635C,Pol Tejada Noriega,07590,Pedruscada,M,B,34,1427
+764,V2739599E,Èric Marquez Riquelme,07590,Pedruscada,M,B,10,1103
+765,F1716429D,Ona Luque Baró,07590,Pedruscada,M,A,42,2186
+766,E45924784,Arnau Oliva Pinilla,07006,Palma,M,A,1,1210
+767,Q1720660H,María Guerra Luna,07870,La Savina,F,D,53,3335
+768,R1629598B,María Del Carmen Abascal Royo,07701,Mao,F,C,73,2407
+769,H71207187,Nil Daniel Pujol Rosado,07350,Binissalem,F,A,17,3382
+770,H17182569,Sílvia Matas Soria,07009,Palma,F,B,42,2945
+771,B75624940,Martina del Riquelme,07340,Alaro,F,B,1,1580
+772,E90563834,Clàudia Olivares-Arcos,07800,Eivissa,M,A,95,2327
+773,A29771516,Mia Saez Menéndez,07340,Alaro,M,B,37,1797
+774,W3460198I,Hugo Muñoz Guardia,07590,Pedruscada,M,A,32,1851
+775,W1122388J,Aina Nevado Costa,07511,Ruberts,F,B,12,1270
+776,H39636360,Nil Bayón Cabezas,07703,Mao,M,A,7,2720
+777,H97528814,Aleix Granados Escamilla,07870,La Savina,F,A,25,2499
+778,B37396116,Pedro Ruiz Rosado,07340,Alaro,F,A,55,1513
+779,C61890869,Jordi Puente Sacristán,07511,Ruberts,M,A,49,3492
+780,E33705484,Pol Aleix Cuervo Tejero,07511,Ruberts,M,B,11,2304
+781,C15184773,Biel Caro Sáenz,07350,Binissalem,M,A,64,3187
+782,P2868114F,Jorge Jorge Posada Antúnez,07609,Bellavista,F,A,78,1125
+783,P2175383E,Josefa Mármol-Serra,07006,Palma,F,A,41,2473
+784,B92758440,Álex Marin Gimeno,07511,Ruberts,F,B,82,3017
+785,U9401050A,Laia Fuster Pina,07006,Palma,F,C,57,1122
+786,R1811528G,Marc Arjona Arnau,07013,Palma,M,B,62,2378
+787,H59194787,Juan Aguilar Mariño,07590,Pedruscada,M,A,70,2381
+788,D85057859,Álex Adam Aparicio Aroca,07350,Binissalem,M,B,11,2926
+789,C58424417,David Soriano Bertrán,07340,Alaro,F,B,86,3403
+790,Q3777043E,Carmen Almagro-Cepeda,07511,Ruberts,M,A,29,3408
+791,U7117298E,Antonio Bas Carmona,07800,Eivissa,F,A,14,1233
+792,G60499704,Biel Torrens,07703,Mao,F,C,12,1921
+793,H72566052,Antònia Cardona Sáenz,07350,Binissalem,F,A,45,1241
+794,P0606698I,Ona Diéguez Cal,07340,Alaro,M,D,99,1370
+795,G72402555,Juan Roca Vidal,07800,Eivissa,M,A,34,1606
+796,Q5923140G,Arnau Velázquez Arana,07009,Palma,F,B,14,3250
+797,H01447788,Isabel de Pineda,07340,Alaro,M,B,77,3054
+798,B14111736,Paula Morante Poza,07529,Ariany,F,B,22,2338
+799,S7329866C,Jan Xavier Bravo Corominas,07340,Alaro,M,B,3,2616
+800,P5309745G,María Del Carmen Martina Luque Osorio,07703,Mao,F,C,47,1458
+801,N6045875I,Martina Almansa,07609,Bellavista,F,A,57,1683
+802,S1629420I,Adam Clemente Jiménez,07529,Ariany,M,B,51,2343
+803,B26743732,Carlos Estrada,07609,Bellavista,F,B,56,1032
+804,E34603506,Nil Tomé Casas,07609,Bellavista,F,A,9,1523
+805,J8951000B,Javier Chamorro-Armas,07013,Palma,M,B,3,3446
+806,C40970352,José María Morales Folch,07870,La Savina,F,A,17,2802
+807,P4323462D,Pau Uría Coca,07870,La Savina,F,A,95,2653
+808,A93421329,Josep Falcó-Carmona,07609,Bellavista,F,C,28,2623
+809,H89154918,Isabel Marta Pujol Calderón,07529,Ariany,F,C,82,1049
+810,J8270745F,Leo Palacios-Antón,07590,Pedruscada,F,C,22,2808
+811,N4862615D,Francisca Prado Aragón,07529,Ariany,M,A,11,1017
+812,N8572472B,Rosa León Cuervo,07870,La Savina,F,A,95,1694
+813,U1320161A,Aleix Leal-Bernad,07340,Alaro,F,A,82,2993
+814,U5676116F,María Dolores Aguilera Lasa,07511,Ruberts,F,C,48,3327
+815,E63178990,Enzo del Peiró,07870,La Savina,M,B,54,3250
+816,N4335881A,Carla Donoso,07609,Bellavista,M,A,74,2633
+817,H07520273,Dolores Benavent Raya,07701,Mao,M,A,80,1846
+818,C87474805,Aleix Javier Adadia Andrés,07590,Pedruscada,M,A,11,2422
+819,A35902972,Clàudia Lucia Dueñas Quiroga,07870,La Savina,F,B,85,3383
+820,F3424564G,Ramón de Angulo,07590,Pedruscada,F,B,11,1561
+821,P7419256H,Dolores del Sancho,07800,Eivissa,M,C,86,1522
+822,E13792288,Lucia Olivares-Patiño,07511,Ruberts,F,C,77,2915
+823,R0766557C,Albert Riquelme Parra,07511,Ruberts,M,A,88,1082
+824,S2636949F,Miguel Gracia Plaza,07800,Eivissa,F,A,44,3167
+825,J0965421A,Abril Dolores Urrutia Reyes,07511,Ruberts,F,B,49,3052
+826,W4209317I,Clàudia Correa Romeu,07703,Mao,F,B,67,2599
+827,N1549393E,Mia Garmendia Iriarte,07609,Bellavista,M,B,12,3428
+828,P3944247J,David Abril Mascaró,07870,La Savina,M,A,90,1654
+829,V2012994F,Biel Correa Ibáñez,07870,La Savina,M,C,40,2648
+830,P6349295C,Lucas Jerez Vélez,07870,La Savina,M,A,33,3173
+831,Q2618787B,Laura Rodriguez Trujillo,07350,Binissalem,M,D,70,1129
+832,J8454430C,Carla Iglesia Miró,07590,Pedruscada,M,B,30,2890
+833,U4109312A,Javier López-Perez,07609,Bellavista,M,A,55,3287
+834,C91667873,Ona Aina Valero Vilaplana,07511,Ruberts,F,C,60,2611
+835,F5227331E,Dolores Roca,07350,Binissalem,M,A,82,1237
+836,Q6141863H,Manuel Arce-Almeida,07511,Ruberts,M,B,85,1071
+837,W4126441G,Sara Boada Lobo,07703,Mao,F,B,59,1577
+838,P3753013F,Albert Ureña Porta,07590,Pedruscada,F,A,9,1776
+839,R5991053I,Marta del Zabaleta,07009,Palma,F,D,43,2015
+840,J4416099B,Sara Taboada Esteban,07350,Binissalem,F,A,10,2508
+841,V6435372E,Aina Pagès-Gallo,07800,Eivissa,M,A,29,2816
+842,J5791957C,Marc Antonio Gilabert Cabanillas,07590,Pedruscada,M,B,74,3062
+843,W0474207H,Max Castells Valencia,07529,Ariany,M,B,54,2051
+844,A65671836,Mia Cortes Torres,07511,Ruberts,M,B,55,2177
+845,P9640645I,Nil Nogueira-Zapata,07609,Bellavista,F,B,77,2366
+846,Q1042502C,Aleix del Vicens,07009,Palma,F,A,17,2681
+847,V5362208J,Lucas Bárcena-Melero,07590,Pedruscada,F,B,70,2706
+848,C96822747,Pau Chaves Codina,07609,Bellavista,F,D,45,3050
+849,F9936718G,José Ferreras Arregui,07350,Binissalem,M,B,9,1437
+850,A71464838,Nil Sotelo Bermejo,07013,Palma,F,B,1,3091
+851,W2056108J,Paula Ayuso-Chaparro,07609,Bellavista,M,B,89,1669
+852,N2601311J,Sofía Cerdá Jordá,07529,Ariany,F,C,80,3130
+853,Q0656851C,Jorge Palacios Castrillo,07800,Eivissa,F,A,60,3028
+854,H97821656,Martina Arnau Murcia,07609,Bellavista,M,A,9,3232
+855,J1240071I,Biel Canet Medina,07350,Binissalem,M,B,96,1028
+856,F4260029F,Juan Enzo Aguilar Taboada,07511,Ruberts,M,B,63,1687
+857,U5428705G,María Del Carmen Gargallo Bravo,07529,Ariany,M,B,77,1189
+858,A85207439,Josefa Torre Rosales,07701,Mao,M,A,55,1526
+859,C73863391,María Codina Román,07590,Pedruscada,F,A,29,1214
+860,H44628881,Marc Fernandez,07609,Bellavista,F,C,75,1985
+861,J5184224C,Antonio Cerro-Sola,07870,La Savina,M,A,30,1336
+862,G59872762,Martina Manuel Sandoval,07529,Ariany,M,A,45,1718
+863,C40231284,Isabel Cámara Serra,07590,Pedruscada,F,B,49,1764
+864,E44568806,José Gilabert Valencia,07350,Binissalem,F,B,27,3057
+865,P7128055F,Biel Sales Monreal,07511,Ruberts,F,C,8,2665
+866,F6241068C,Arnau Molina Cárdenas,07609,Bellavista,M,A,31,1089
+867,U6894588J,José María Carnero-Capdevila,07529,Ariany,M,B,48,1697
+868,W8584837B,Laura Mosquera Menendez,07340,Alaro,F,C,73,1067
+869,G23360985,Abril Fajardo Mate,07590,Pedruscada,F,D,78,1227
+870,W7228171J,David Cuenca Talavera,07590,Pedruscada,F,B,73,1097
+871,V9650699C,Arnau del Camacho,07590,Pedruscada,M,B,67,2072
+872,E87497095,Leo Borrell Portillo,07013,Palma,F,C,99,2746
+873,U8177708H,Núria Chico Chico,07870,La Savina,F,A,7,2574
+874,W3503049C,Bruno Corbacho Carretero,07703,Mao,M,A,14,2177
+875,C75650804,Valèria Burgos Lucena,07609,Bellavista,F,B,63,3431
+876,N2921216D,Xavier Cabo Gaya,07511,Ruberts,M,A,60,1125
+877,A92737444,Lucas Enzo Santamaria Lasa,07609,Bellavista,M,C,91,1316
+878,S6294080D,Cristina Quintanilla Julián,07703,Mao,F,A,44,2219
+879,G92873199,David Boada Galván,07350,Binissalem,F,C,66,2951
+880,F7945847G,Marta Sarmiento,07350,Binissalem,F,B,7,1043
+881,V6220270J,José Villalonga Rodriguez,07340,Alaro,M,A,45,1445
+882,V0734052D,Max Álex Chaves Olmedo,07340,Alaro,F,B,77,1717
+883,N2725824C,Nil Gonzalo Guardia,07703,Mao,F,C,21,2217
+884,A24560765,Carlos Sacristán Rovira,07350,Binissalem,F,B,95,2729
+885,G93072635,Juan Gomila Carrillo,07006,Palma,M,A,45,2755
+886,D78099165,Carmen Flores Gálvez,07800,Eivissa,F,B,36,2926
+887,A92311471,Sara Laura Valderrama Nuñez,07340,Alaro,M,C,64,1393
+888,G93122059,Noa Varela-Lerma,07703,Mao,F,C,86,1926
+889,C74472267,Albert Enzo Llabrés Ferrán,07006,Palma,M,A,65,1794
+890,S8832488D,Sara Canet,07870,La Savina,F,A,97,1311
+891,P8887808G,Martí Enzo Canals Atienza,07350,Binissalem,M,C,4,1269
+892,P4570638I,Paula Álvaro Peña,07511,Ruberts,M,B,5,2007
+893,P7001854D,Laura Nebot González,07529,Ariany,F,B,95,2775
+894,W1386797C,Núria Coca Vizcaíno,07701,Mao,M,A,40,1422
+895,W4714325J,Miguel Chaves Abella,07529,Ariany,M,B,70,1911
+896,P7791470C,Ramón Alfonso Chacón,07511,Ruberts,M,A,91,1859
+897,P4237388F,Álex Montesinos Mesa,07701,Mao,F,B,41,1170
+898,Q7397843I,Antonio Asensio,07701,Mao,F,A,2,1076
+899,F8316450I,Enzo del Piñol,07009,Palma,F,A,19,2526
+900,C24285553,Martina Riquelme,07009,Palma,F,C,38,2570
+901,J8061873I,Lucas Ariño,07529,Ariany,M,A,92,2852
+902,U9002691E,Francisca Sofía Aguilera Salmerón,07529,Ariany,M,A,74,1863
+903,D79571618,Manuel Corral Font,07609,Bellavista,F,A,25,2466
+904,N5011460B,Carlos Moliner Lozano,07701,Mao,F,D,52,1202
+905,U8005907D,Martí José Zabaleta Reyes,07511,Ruberts,F,A,56,1978
+906,J5000294H,Lucia Larrea Villalonga,07590,Pedruscada,F,B,46,1554
+907,V9316223H,Martí Pol Márquez Quero,07350,Binissalem,M,D,37,3471
+908,Q3828507H,María Del Carmen Lozano Alcaraz,07511,Ruberts,F,C,19,1462
+909,W1860619D,Max Martín,07800,Eivissa,M,A,23,3493
+910,F0361305F,María Teresa Castilla Escamilla,07013,Palma,M,A,9,2572
+911,V2673119J,Dolores Donaire Ferrando,07511,Ruberts,F,A,58,3460
+912,V5321769A,Joan Valverde Velasco,07703,Mao,F,C,93,2699
+913,C69195204,Enzo Toro Carrión,07013,Palma,F,C,80,1924
+914,D22287338,Isabel Roura Espejo,07350,Binissalem,M,D,54,1778
+915,R3626969D,Álex Villalobos Arenas,07350,Binissalem,F,A,74,3205
+916,Q7656101H,Biel Cervantes Colom,07529,Ariany,M,A,48,1834
+917,S3318805C,Emma Palomar-Paz,07350,Binissalem,F,A,89,2741
+918,U7671638J,Biel Peñas Torres,07350,Binissalem,M,A,6,2159
+919,P0175833C,José Yuste Frutos,07870,La Savina,M,A,31,1473
+920,E97312177,Francisca Valèria Saldaña Madrid,07800,Eivissa,F,A,99,1979
+921,R3730901J,Carlos Ripoll Bustos,07703,Mao,M,A,36,3331
+922,S8739939J,Carlos Enríquez,07511,Ruberts,F,D,74,3101
+923,G73113375,Joan Morata-Dominguez,07590,Pedruscada,F,B,10,2015
+924,B21455514,Lucia Cabo Botella,07511,Ruberts,F,B,59,1226
+925,A08234841,Abril Barrios Fabregat,07590,Pedruscada,F,C,34,1761
+926,G22262034,María Teresa Hurtado Muro,07701,Mao,F,A,80,3169
+927,E20610671,Sílvia Casals Moya,07800,Eivissa,F,B,19,2312
+928,V1831004E,Miguel Uriarte Martinez,07009,Palma,M,A,6,1407
+929,S4479706F,Leo de Ochoa,07703,Mao,M,C,72,1246
+930,P4804407G,Clàudia Borrás Llorente,07870,La Savina,F,B,5,1363
+931,Q4285914J,Abril Cuesta Cid,07340,Alaro,M,A,82,1922
+932,N0692308J,Sofía del Santos,07529,Ariany,F,A,92,1688
+933,Q6349984B,Leo Llabrés Solé,07511,Ruberts,F,A,32,1903
+934,A33015231,Albert Lucas Alvarez Sarmiento,07870,La Savina,F,A,19,3226
+935,P5454044H,Carlos Mas Mur,07350,Binissalem,M,C,23,1906
+936,D88126552,Daniel Nil Sales Aguilar,07870,La Savina,M,C,56,3404
+937,U9079448H,Laura Chlóe Ribas Amor,07529,Ariany,M,D,60,1323
+938,B00366195,Enzo Xavier Crespi Bermudez,07350,Binissalem,F,A,71,2721
+939,R5362668E,Ona Santamaría Chacón,07701,Mao,M,B,21,1989
+940,H07074586,Lucia Catalán Palomares,07009,Palma,F,B,35,2858
+941,U9445666B,Clàudia Blanca-Buendía,07590,Pedruscada,M,B,80,1663
+942,N5720058F,Bruno de Tejera,07340,Alaro,M,A,53,2636
+943,A86693306,Albert Peñalver,07529,Ariany,F,B,40,3337
+944,G66307828,Jana Padilla Iriarte,07340,Alaro,M,A,90,3214
+945,C21821384,Paula Arenas Mesa,07009,Palma,M,B,48,2129
+946,P2239229D,María Teresa Gisbert Sáez,07609,Bellavista,M,B,31,3197
+947,P3512107H,Pedro Priego Navas,07340,Alaro,F,A,28,3401
+948,E64911605,Xavier Oller,07590,Pedruscada,M,A,80,1232
+949,A60243821,David Enzo Lucas Flores,07609,Bellavista,F,C,73,1553
+950,U1791642J,José María Pineda Cortes,07870,La Savina,F,A,1,3458
+951,N6311787C,Javier David Ramirez Amorós,07703,Mao,F,A,56,1344
+952,B56800733,Enzo Portero Requena,07609,Bellavista,M,A,93,3311
+953,D00362228,Antonio Iborra Bauzà,07800,Eivissa,M,B,99,1678
+954,S5297573G,Josep Santamaría,07340,Alaro,M,B,62,2217
+955,U0022765B,Valèria de Doménech,07609,Bellavista,F,A,60,2873
+956,J9984228H,Álex Río Juan,07590,Pedruscada,M,A,37,2600
+957,A49591126,Pol Barrera,07006,Palma,F,B,40,1067
+958,F0836413E,Antonia Alegria Atienza,07590,Pedruscada,M,C,27,3208
+959,U2451049G,Dolores Clàudia Ugarte Flores,07350,Binissalem,M,C,32,2691
+960,P1723116H,Júlia Bonilla,07590,Pedruscada,M,C,95,2363
+961,P6223371C,Juan Abascal Múñiz,07609,Bellavista,F,C,78,2238
+962,G43193705,Pol Hugo Mateu Albero,07340,Alaro,M,B,95,1769
+963,G56775307,María Dolores Pablo-Belda,07800,Eivissa,M,A,89,1921
+964,S6821896E,Josefa Oliva Cabrera,07340,Alaro,M,C,33,1712
+965,Q9282116D,Xavier Daniel Ortuño Arenas,07350,Binissalem,M,B,19,1768
+966,G06679567,Lucas Aguirre Rosales,07703,Mao,F,A,53,1296
+967,U7024723D,Marc del Marin,07800,Eivissa,F,A,53,2931
+968,C79905402,Enzo Santos Bauzà,07870,La Savina,F,B,31,1113
+969,V3386392I,Aleix Bou Castejón,07590,Pedruscada,M,C,95,3218
+970,B50800101,María Díez Gimeno,07800,Eivissa,M,A,34,2754
+971,U8805961C,Arlet de Armas,07609,Bellavista,M,A,34,1580
+972,H78082898,María Del Carmen Luna Donoso,07013,Palma,F,D,72,3231
+973,W2491493I,Aina Montalbán Rivera,07870,La Savina,F,A,33,3227
+974,R2102539J,Dolores Vilaplana,07006,Palma,M,C,77,2485
+975,F4747128I,Valèria Hoyos Antúnez,07511,Ruberts,F,C,40,1017
+976,S1709057B,Núria Vilalta Asenjo,07701,Mao,F,A,84,3374
+977,C76706050,José Seco,07340,Alaro,M,A,54,2084
+978,F0546524J,Xavier Figueras Garay,07703,Mao,F,B,22,2232
+979,G54341110,Èric Carreras Marin,07701,Mao,M,B,9,2100
+980,V3109631F,Lucia Mayol Cobo,07590,Pedruscada,M,C,76,2113
+981,B93335123,Xavier Ribes Llorens,07340,Alaro,M,C,11,2965
+982,F5957134I,Leo Cano Valenciano,07511,Ruberts,M,A,73,2081
+983,U2346687C,Leo Girona Redondo,07703,Mao,F,D,4,2607
+984,E35387042,Carmen Salas Pareja,07350,Binissalem,F,A,83,3404
+985,R6720959C,Pedro Goñi Garzón,07701,Mao,M,A,72,1699
+986,W1057779I,María Del Carmen Torre,07340,Alaro,M,A,1,2208
+987,V0501471G,Xavier de Cantero,07511,Ruberts,F,C,10,3308
+988,S7809443J,David Mateos Anaya,07529,Ariany,F,A,6,2660
+989,N7029813H,Carla Castro Álvarez,07703,Mao,F,B,71,1924
+990,F6878154A,Cristina Rosa Rico Jerez,07590,Pedruscada,F,A,52,2894
+991,P4273932F,Juan Cervera Arribas,07350,Binissalem,M,C,16,1140
+992,V2155350H,Emma Sales,07870,La Savina,M,A,55,1905
+993,W1186628B,Josefa María Dolores Barreda Ibañez,07609,Bellavista,M,A,64,2031
+994,G81409195,Josefa Ferrando-Navas,07006,Palma,F,A,80,1000
+995,W0354571B,Joan Téllez Pera,07609,Bellavista,F,A,46,2426
+996,W9367506D,Álex Javier Campos Palomar,07350,Binissalem,M,B,28,3367
+997,C81724247,Èric José Guerrero Hernando,07701,Mao,F,C,15,2599
+998,V3802556E,Èric Pinedo,07529,Ariany,M,B,68,1634
+999,J8879546C,Pol Iglesias Domingo,07870,La Savina,M,B,32,1458
