@@ -15,6 +15,7 @@ Welcome to Curs Python EBAP's documentation!
    lessons/2_Python_Introduccio
    lessons/3_Pandas_Introduccio
    lessons/4_Pandas_Estructura
+   lessons/4c_Pandas_AgrupacioISeries
    lessons/5_Pandas_Modificacio
    lessons/6_Pandas_Visualitzacions
 
