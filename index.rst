@@ -25,6 +25,8 @@ Welcome to Curs Python EBAP's documentation!
    :caption: Projecte final
 
    lessons/projecte_final
+   lessons/penguins
+   lessons/compres
 
 
 .. Indices and tables
